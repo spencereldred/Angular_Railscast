@@ -1,0 +1,2 @@
+Angular Railscast #405
+Raffler App done in Angular
